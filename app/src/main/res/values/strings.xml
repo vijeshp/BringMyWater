@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyWater</string>
+    <string name="title_activity_order">OrderActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">Get My Water</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="address">
+        <item>House 202</item>
+        <item>House 201</item>
+        <item>House 204</item>
+        <item>House 205</item>
+    </string-array>
+
+
+    <string-array name="water_type">
+        <item>Normal</item>
+        <item>Bisileri</item>
+    </string-array>
+
+
+    <string-array name="Streets_available">
+        <item>HRBR</item>
+        <item>OMBR</item>
+    </string-array>
+
+    <string-array name="shops_1">
+        <item>home shope</item>
+        <item>surya </item>
+    </string-array>
+
+
+    <string-array name="shops_2">
+        <item>shiva</item>
+        <item>rama </item>
+    </string-array>
+
+
+    <string-array name="water_count">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sign_up_base">SignUpBaseActivity</string>
+    <string name="title_activity_address_screen">AddressScreen</string>
+
+
+</resources>
